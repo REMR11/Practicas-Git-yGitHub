@@ -38,7 +38,7 @@
         
         ![Untitled](Git%20y%20Github%20d5f4e889c55e4e51b9ab5e972a1abff0/Untitled%203.png)
         
-        En la siguiente ventana nos pregunta como queremos llamar a nuestra rama principal (el tema de ramas, posiblemente lo veas en el futuro), ya que este tutorial esta alojado en Github, he de decirte por defecto debes utilizar la rama `master` en proyectos de Github.
+        En la siguiente ventana nos pregunta como queremos llamar a nuestra rama principal (el tema de ramas, posiblemente lo veas en el futuro), ya que este tutorial esta alojado en Github, he de decirte por defecto debes utilizar la rama `main` en proyectos de Github. asi que para este paso selecciona la segunda opcion.
         
         ![Untitled](Git%20y%20Github%20d5f4e889c55e4e51b9ab5e972a1abff0/Untitled%204.png)
         
