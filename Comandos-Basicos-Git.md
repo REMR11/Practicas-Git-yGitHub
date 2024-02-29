@@ -1,20 +1,24 @@
--    ## Comandos que posiblemente te sirvan a futuro
-        
-        ### Configuración inicial
+# Comandos que posiblemente te sirvan a futuro
+-    ## Configuración inicial
+        para abrir una terminal de git, basta con posicionarte en tu proyecto en el explorador de archivos, dar clic derecho y abrir con una terminal de `git bash`
         
         Después de haber instalado git, debes configurar tu Nickname y correo electrónico, esto es importante por que git necesita identificar tus cambios en los proyectos:
-        
+        > NOTA: Recuenda que solo puedes ejecutar uncomando a la vez
         ```bash
-        //En terminal, puedes realizar un comando a la vez
         //Comando 1
         git config --global user.name "NickName"
+        ```
+        ```bash
         //Comando 2
         git config --global user.email "Your@Email.anything"
         ```
-        
+        * Ejemplo de un commit identificado con un usuario
+            
+            ![Untitled](Git%20y%20Github%20d5f4e889c55e4e51b9ab5e972a1abff0/captura-Commit.png)
+
         ### Comandos básicos
         
-        1. ********************************************Inicial un repositorio********************************************
+        1. **Inicial un repositorio**
             
             Para comenzar a rastrear un proyecto, dirígete a la carpeta raíz de tu proyecto y abre la terminal de `Git Bash`
             
@@ -24,9 +28,9 @@
             
             Esto crear una carpeta escondida en tu proyecto donde git podrá ir guardando todos los cambios que hagas en tu proyecto.
             
-        2. ******************************************Clonar un repositorio******************************************
+        2. **Clonar un repositorio**
             
-            Si ya tienes un proyecto creado en algún repositorio, puedes ****************clonarlo**************** en tu equipo con el siguiente comando:
+            Si ya tienes un proyecto creado en algún repositorio, puedes **clonarlo** en tu equipo con el siguiente comando:
             
             ```bash
             git clone URL_DEL_REPOSITORIO123456
@@ -34,7 +38,7 @@
             
             Recuerda que debes saber en que parte de tu equipo estas clonando tu nuevo repositorio.
             
-        3. **************************Ver el estado**************************
+        3. **Ver el estado**
             
             Al estar trabajando ya con un repositorio es recomendable que verifiques el estado de tus archivos:
             
