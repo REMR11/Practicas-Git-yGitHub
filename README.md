@@ -1,11 +1,20 @@
-# Practicas-Git-yGitHub
+# Practicas-Git-y-GitHub
 
-# Git y Github
+## Git y Github
 
-### Primeros pasos
+#### indice
+- [Primeros pasos en git]( #primeros-pasos-en-git)
+    - [¿Que es git?]( #tutorial-de-introducción-a-git)
+    - [Instalacion]( #instalación)
+    - [comandos que posiblemente te sirvan a futuro]( #comandos-que-posiblemente-te-sirvan-a-futuro)
+        - [comandos básicos]( #comandos-básicos)
+- [Primeros pasos en github ](#)
+    - [¿Que es Girhub?](#)
 
-- 
-    
+
+### Primeros pasos en git
+
+-    
     # Tutorial de introducción a git
     
     **¿Que es git?**
@@ -179,3 +188,6 @@
         [https://github.com/REMR11/qyerfdw](https://github.com/REMR11/qyerfdw)
         
         Hasta aquí nuestro pequeño tutorial, espero no haberte aburrido y que te sirva para iniciar en la plataforma.
+-
+
+### ¿Que es Github? 
